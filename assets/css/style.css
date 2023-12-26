@@ -2,23 +2,22 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper{}
 
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
 }
 
-.alert-container  .col-12 {
-    padding-left:0;
-    padding-right:0;
+.alert-container .col-12 {
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .site-wide-alert {
     color: #544600;
     background-color: #eec802;
     border-color: #eec802;
-    border-radius:0;
+    border-radius: 0;
     margin-bottom: 0;
     padding: 5px 15px;
 }
@@ -48,21 +47,18 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.quotes-container {}
-
-.features-container {}
-
 .page-header {
     margin-bottom: 0;
     border-bottom: 0;
     text-align: center;
 }
+
 .page-header h2 {
     margin-top: 0;
 }
 
 .quotes .page-header {
-    margin-bottom:25px;
+    margin-bottom: 25px;
 }
 
 /*block-dividers*/
@@ -83,7 +79,7 @@ body {
 }
 
 .block-divider--short {
-    width: 35px; 
+    width: 35px;
 }
 
 
@@ -97,9 +93,9 @@ body {
 /* Navbar*/
 
 .navalert-container {
-    position:absolute;
-    top:0;
-    left:0;
+    position: absolute;
+    top: 0;
+    left: 0;
     padding-left: 0;
     padding-right: 0;
     z-index: 1;
@@ -109,7 +105,7 @@ body {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0,0,0,0.25);
+    background-color: rgba(0, 0, 0, 0.25);
 }
 
 .navbar .navbar-toggler {
@@ -180,17 +176,17 @@ body {
 }
 
 .feature i {
-    margin-bottom:20px;
-    font-size:45px;
+    margin-bottom: 20px;
+    font-size: 45px;
     line-height: 45px;
 }
 
 .feature .btn {
-    background-color:white;
-    border-color:white;
+    background-color: white;
+    border-color: white;
     border-radius: 15px;
-    min-width:100px;
-    font-weight:bold;
-    margin: top 10px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
     color: #f05f40;
 }
